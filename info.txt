@@ -1,0 +1,16 @@
+commands:
+    1- php artisan serve  
+    2- php artisan make:controller HomeController
+    3- php artisan make:migration create_posts_table
+    4- php artisan migrate 
+    5- composer require laravel/ui 
+    6- php artisan ui vue --auth 
+    7- php artisan make:controller UploadFileController --plain
+    8- composer require laravelcollective/html
+    9- php artisan make:model Posts
+    10- 
+
+Introduction:
+    Simple post application (social media), where we can regist, login, add, post, edit and delete post.
+Posts can be texts or images or both.
+We used laravel as backend.
